@@ -1,12 +1,48 @@
-# React + Vite
+# Assembly Endgame – React Word Guessing Game
+Assembly Endgame is a challenging and interactive word-guessing game built with React. It is the final project in the comprehensive 15-hour React course by freeCodeCamp and instructor Bob Ziroll. This app demonstrates advanced React concepts such as state sharing, accessibility improvements, and interactive UI components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+🧩 Interactive gameplay where the user guesses words step-by-step
 
-Currently, two official plugins are available:
+♿ Accessibility enhancements for a better user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔄 State management across multiple components and shared states
 
-## Expanding the ESLint configuration
+🎨 Clean and responsive UI built with modern React techniques
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔥 Demonstrates practical use of hooks and component composition
+
+# How to Play
+Start the game to receive a word puzzle.
+
+Enter guesses to try to complete the word or phrase.
+
+The app provides feedback on your guesses, guiding you toward the solution.
+
+Continue guessing until the word is correctly assembled or you run out of attempts.
+
+
+
+# Start
+bash
+git clone https://github.com/yourusername/assembly-endgame.git
+cd assembly-endgame
+Install dependencies
+
+bash
+npm install
+Start the development server
+
+bash
+npm start
+Open your browser and navigate to
+http://localhost:3000 to play the game
+
+Technologies Used
+React (Functional Components & Hooks)
+
+CSS Modules / Styled Components (depending on implementation)
+
+JavaScript (ES6+)
+
+Vite / Create React App (for build tooling)
