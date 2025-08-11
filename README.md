@@ -38,11 +38,8 @@ npm start
 Open your browser and navigate to
 http://localhost:3000 to play the game
 
-Technologies Used
+# Technologies Used
 React (Functional Components & Hooks)
-
 CSS Modules / Styled Components (depending on implementation)
-
 JavaScript (ES6+)
-
 Vite / Create React App (for build tooling)
