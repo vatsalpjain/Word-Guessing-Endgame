@@ -1,5 +1,5 @@
 # Assembly Endgame – React Word Guessing Game
-Assembly Endgame is a challenging and interactive word-guessing game built with React. It is the final project in the comprehensive 15-hour React course by freeCodeCamp and instructor Bob Ziroll. This app demonstrates advanced React concepts such as state sharing, accessibility improvements, and interactive UI components.
+Assembly Endgame is a challenging and interactive word-guessing game built with React.This app demonstrates advanced React concepts such as state sharing, accessibility improvements, and interactive UI components.
 
 # Features
 🧩 Interactive gameplay where the user guesses words step-by-step
